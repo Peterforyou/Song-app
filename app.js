@@ -1,8 +1,4 @@
-// let me = fetch('https://itunes.apple.com/search?')
 
-// setTimeout(() => {
-//     console.log(me);
-// }, 2000);
 
 let songContainer = document.querySelector('.container')
 let searchMusic;

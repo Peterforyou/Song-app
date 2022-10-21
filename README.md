@@ -20,7 +20,7 @@ This is a song app where you get to play your favorite artist preview song.
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/House-Company/)
+- Live Site URL:(https://peterforyou.github.io/Song-app/)
 
 ### Built with
 
